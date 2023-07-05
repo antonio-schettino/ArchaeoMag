@@ -1,21 +1,31 @@
-MIT License
+ArchaeoMag 3.3.2 License Agreement 
+--------------------------
 
-Copyright (c) 2023 antonio-schettino
+Copyright (C) 2017-2020 A. Schettino & A. Ghezzi (Software)
+All Rights Reserved
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This is a legal agreement between the Licensors (A. Schettino & A. Ghezzi) and the 
+Licensee (You).
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+You should carefully read the following terms and conditions before using this software.
+Unless you have a different license agreement signed by the Licensors,
+your use of this software indicates your acceptance of this license agreement and warranty.
+ 
+1. You are granted the right to freely use ArchaeoMag for education or academic purposes both on single stand-alone or networked 
+computers or simultaneously on any number of computers. 
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. You may not sell the software to a third party. 
+
+3. You may not decompile or reverse engineer any of the software. 
+
+
+Disclaimer of Warranty
+----------------------
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE DISTRIBUTED "AS IS" AND WITHOUT WARRANTIES AS TO
+PERFORMANCE OF MERCHANTABILITY OR ANY OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED.
+Because of the various hardware and software environments into which ArchaeoMag 3.x may be put,
+NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS OFFERED.
+
+Good data processing procedure dictates that any program be thoroughly tested with non-critical
+data before relying on it. The user must assume the entire risk of using the program.
